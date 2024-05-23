@@ -51,6 +51,6 @@ Available Routes and Description
   - Go to `http://127.0.0.1:5000/api/v1.0/2017-01-01/2017-12-31`
   - This route returns the minimum, average, and maximum temperatures for the specified date range in JSON format.
 
-##Resources Used
+## Resources Used
 Chat GPT, Stack Overflow and previous assignments were used to help me troubleshoot problems associated with importing tables and structuring syntax appropriately.
 
