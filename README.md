@@ -2,7 +2,7 @@
 
 ## Project Structure
 
--`Climate Folder`: Holds the Resouces folder, app.py and climate_starter.ipynb files
+*`Climate Folder`: Holds the Resouces folder, app.py and climate_starter.ipynb files
 -`climate_starter`: The file that uses Python, SQLAlchemy ORM queries, Pandas, and Matplotlib to run the data analysis
 - `app.py`: The main Flask application file that sets up the API routes and connects to the SQLite database.
 - `hawaii.sqlite`: The SQLite database file containing the weather data.
